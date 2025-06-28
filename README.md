@@ -13,3 +13,7 @@
 
 - deepseek 通过 `tools` + `tool_choice` 调用
 - openai 通过 `functions` + `function_call` 调用
+
+## 效果
+
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/57b355ea-f8e8-4e46-b0e4-9dfbb8b95a44" />
