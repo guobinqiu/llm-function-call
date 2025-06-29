@@ -17,3 +17,9 @@
 ## 效果
 
 <img width="382" alt="image" src="https://github.com/user-attachments/assets/57b355ea-f8e8-4e46-b0e4-9dfbb8b95a44" />
+
+## 参考
+
+> https://api-docs.deepseek.com/zh-cn/guides/function_calling
+> https://platform.openai.com/docs/guides/function-calling?api-mode=responses
+
