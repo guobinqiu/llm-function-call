@@ -21,5 +21,6 @@
 ## 参考
 
 > https://api-docs.deepseek.com/zh-cn/guides/function_calling
+
 > https://platform.openai.com/docs/guides/function-calling?api-mode=responses
 
